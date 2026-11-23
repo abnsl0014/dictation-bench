@@ -1,0 +1,304 @@
+[
+ {
+  "id": "dep01",
+  "lang": "de",
+  "voice": "de-DE-ConradNeural",
+  "text": "Aber ganz ehrlich, wenn das jetzt auch wieder nicht funktioniert, dann lassen wir das Projekt erstmal liegen.",
+  "keep": [
+   "ganz ehrlich",
+   "auch",
+   "wieder",
+   "dann"
+  ],
+  "may_drop": [
+   "aber"
+  ]
+ },
+ {
+  "id": "dep02",
+  "lang": "de",
+  "voice": "de-DE-KatjaNeural",
+  "text": "Das hatten wir schon mal besprochen, und jetzt hast du es schon wieder vergessen.",
+  "keep": [
+   "schon mal",
+   "schon wieder",
+   "jetzt"
+  ],
+  "may_drop": []
+ },
+ {
+  "id": "dep03",
+  "lang": "de",
+  "voice": "de-DE-KillianNeural",
+  "text": "Also ich würde sagen, wir machen das einfach morgen früh.",
+  "keep": [
+   "einfach"
+  ],
+  "may_drop": [
+   "also"
+  ]
+ },
+ {
+  "id": "dep04",
+  "lang": "de",
+  "voice": "de-DE-AmalaNeural",
+  "text": "Ja, das ist ja eigentlich ganz klar, oder?",
+  "keep": [
+   "eigentlich",
+   "oder"
+  ],
+  "may_drop": [
+   "ja"
+  ]
+ },
+ {
+  "id": "dep05",
+  "lang": "de",
+  "voice": "de-DE-ConradNeural",
+  "text": "Kannst du mal kurz nachschauen, ob die Rechnung schon bezahlt ist?",
+  "keep": [
+   "schon",
+   "kurz"
+  ],
+  "may_drop": [
+   "mal"
+  ]
+ },
+ {
+  "id": "dep06",
+  "lang": "de",
+  "voice": "de-DE-KatjaNeural",
+  "text": "Das wird glaube ich schwieriger, als wir dachten.",
+  "keep": [
+   "glaube ich"
+  ],
+  "may_drop": []
+ },
+ {
+  "id": "dep07",
+  "lang": "de",
+  "voice": "de-DE-KillianNeural",
+  "text": "Wir sollten halt irgendwie schauen, dass wir das bis Freitag hinbekommen.",
+  "keep": [],
+  "may_drop": [
+   "halt",
+   "irgendwie"
+  ]
+ },
+ {
+  "id": "dep08",
+  "lang": "de",
+  "voice": "de-DE-AmalaNeural",
+  "text": "Ich habe das quasi schon fertig, ich muss nur noch die Zahlen prüfen.",
+  "keep": [
+   "schon",
+   "nur noch"
+  ],
+  "may_drop": [
+   "quasi"
+  ]
+ },
+ {
+  "id": "dep09",
+  "lang": "de",
+  "voice": "de-DE-ConradNeural",
+  "text": "Okay, also, dann machen wir das so.",
+  "keep": [
+   "dann",
+   "so"
+  ],
+  "may_drop": [
+   "okay",
+   "also"
+  ]
+ },
+ {
+  "id": "dep10",
+  "lang": "de",
+  "voice": "de-DE-KatjaNeural",
+  "text": "Das ist doch genau das, was ich gestern gesagt habe.",
+  "keep": [
+   "doch",
+   "genau"
+  ],
+  "may_drop": []
+ },
+ {
+  "id": "dep11",
+  "lang": "de",
+  "voice": "de-DE-KillianNeural",
+  "text": "Und dann habe ich ihm gesagt, dass er das eben nicht so machen soll.",
+  "keep": [
+   "eben"
+  ],
+  "may_drop": [
+   "und dann"
+  ]
+ },
+ {
+  "id": "dep12",
+  "lang": "de",
+  "voice": "de-DE-AmalaNeural",
+  "text": "Bitte korrigiere das noch mal, bevor du es abschickst.",
+  "keep": [
+   "das",
+   "noch mal"
+  ],
+  "may_drop": []
+ },
+ {
+  "id": "dep13",
+  "lang": "de",
+  "voice": "de-DE-ConradNeural",
+  "text": "Ähm, ich wollte nur kurz fragen, ob du heute Zeit hast.",
+  "keep": [
+   "nur kurz"
+  ],
+  "may_drop": [
+   "ähm"
+  ]
+ },
+ {
+  "id": "dep14",
+  "lang": "de",
+  "voice": "de-DE-KatjaNeural",
+  "text": "Die, die Präsentation ist fertig, ich schicke sie dir gleich.",
+  "keep": [
+   "gleich"
+  ],
+  "may_drop": [
+   "die die"
+  ]
+ },
+ {
+  "id": "dep15",
+  "lang": "de",
+  "voice": "de-DE-KillianNeural",
+  "text": "Wir treffen uns am Montag, nein, am Dienstag um zehn.",
+  "keep": [
+   "dienstag"
+  ],
+  "may_drop": [
+   "montag",
+   "nein"
+  ]
+ },
+ {
+  "id": "dep16",
+  "lang": "de",
+  "voice": "de-DE-AmalaNeural",
+  "text": "So, jetzt noch ein Wort zum Budget: Wir brauchen eigentlich mehr Zeit.",
+  "keep": [
+   "eigentlich",
+   "noch"
+  ],
+  "may_drop": [
+   "so"
+  ]
+ },
+ {
+  "id": "dep17",
+  "lang": "de",
+  "voice": "de-DE-ConradNeural",
+  "text": "Ich bin mir halt nicht sicher, ob das wirklich so funktioniert.",
+  "keep": [
+   "wirklich"
+  ],
+  "may_drop": [
+   "halt"
+  ]
+ },
+ {
+  "id": "dep18",
+  "lang": "de",
+  "voice": "de-DE-KatjaNeural",
+  "text": "Na ja, das ist schon okay, aber eigentlich hätte ich es gern anders.",
+  "keep": [
+   "schon",
+   "aber",
+   "eigentlich"
+  ],
+  "may_drop": [
+   "na ja"
+  ]
+ },
+ {
+  "id": "dep19",
+  "lang": "de",
+  "voice": "de-DE-KillianNeural",
+  "text": "Mach das einfach mal, wir können es ja später noch ändern.",
+  "keep": [
+   "einfach",
+   "noch"
+  ],
+  "may_drop": [
+   "mal",
+   "ja"
+  ]
+ },
+ {
+  "id": "dep20",
+  "lang": "de",
+  "voice": "de-DE-AmalaNeural",
+  "text": "Sag mir mal bitte, wie lange das jetzt dauern wird.",
+  "keep": [
+   "jetzt",
+   "bitte"
+  ],
+  "may_drop": [
+   "mal"
+  ]
+ },
+ {
+  "id": "dep21",
+  "lang": "de",
+  "voice": "de-DE-ConradNeural",
+  "text": "Also, ich wollte dir mal kurz ein Update geben, weil das Thema ja schon länger offen ist. Ganz ehrlich, ich habe das Gefühl, dass wir da irgendwie im Kreis laufen. Wir hatten das eigentlich schon letzte Woche besprochen, und jetzt kommt die gleiche Frage halt schon wieder. Ich würde sagen, wir machen das jetzt einfach so: Du schaust dir bis Mittwoch die Zahlen noch mal genau an, und dann setzen wir uns kurz zusammen. Wenn es dann immer noch nicht passt, lassen wir das Projekt erstmal liegen. Aber bitte vergiss es diesmal nicht wieder, sonst verlieren wir wirklich zu viel Zeit.",
+  "keep": [
+   "ganz ehrlich",
+   "eigentlich",
+   "schon wieder",
+   "einfach",
+   "noch mal",
+   "immer noch",
+   "wirklich",
+   "bitte",
+   "diesmal",
+   "kurz",
+   "genau"
+  ],
+  "may_drop": [
+   "also",
+   "mal",
+   "ja",
+   "irgendwie",
+   "halt"
+  ]
+ },
+ {
+  "id": "dep22",
+  "lang": "de",
+  "voice": "de-DE-KatjaNeural",
+  "text": "Also, ich wollte dir mal kurz ein Update geben, weil das Thema ja schon länger offen ist. Ganz ehrlich, ich habe das Gefühl, dass wir da irgendwie im Kreis laufen. Wir hatten das eigentlich schon letzte Woche besprochen, und jetzt kommt die gleiche Frage halt schon wieder. Ich würde sagen, wir machen das jetzt einfach so: Du schaust dir bis Mittwoch die Zahlen noch mal genau an, und dann setzen wir uns kurz zusammen. Wenn es dann immer noch nicht passt, lassen wir das Projekt erstmal liegen. Aber bitte vergiss es diesmal nicht wieder, sonst verlieren wir wirklich zu viel Zeit.",
+  "keep": [
+   "ganz ehrlich",
+   "eigentlich",
+   "schon wieder",
+   "einfach",
+   "noch mal",
+   "immer noch",
+   "wirklich",
+   "bitte",
+   "diesmal",
+   "kurz",
+   "genau"
+  ],
+  "may_drop": [
+   "also",
+   "mal",
+   "ja",
+   "irgendwie",
+   "halt"
+  ]
+ }
+]

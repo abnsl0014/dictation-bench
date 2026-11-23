@@ -1,0 +1,32 @@
+# Test-only: a Windows machine that runs dictation apps side by side on synthetic
+# recordings. Started by a push to main that changes vm/start. The job runs
+# vm/agent.py, which executes command files pushed to vm/cmd/ one by one and pushes
+# their output, encrypted (see vm/agent.py), to the `results` branch.
+name: vm
+on:
+  push:
+    branches: [main]
+    paths: ['vm/start']
+permissions:
+  contents: write
+concurrency:
+  group: vm
+  cancel-in-progress: true
+jobs:
+  vm:
+    # Only in this repository, never in forks.
+    if: github.repository == 'abnsl0014/dictation-bench'
+    runs-on: windows-2025
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Agent
+        shell: pwsh
+        run: |
+          python -m pip install --quiet --disable-pip-version-check pillow pyautogui pywinauto pywin32 cryptography sounddevice soundfile numpy pyperclip
+          python vm/agent.py
